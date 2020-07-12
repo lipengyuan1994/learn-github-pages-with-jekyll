@@ -11,3 +11,7 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
+
+header_pages:
+  - about.md
+  - portfolio.md
