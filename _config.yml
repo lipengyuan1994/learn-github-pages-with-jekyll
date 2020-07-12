@@ -1,7 +1,7 @@
 title: Your awesome title
 author: Pytrick li
 email: youremail@domain.com
-theme: jekyll-theme-hacker
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   this is a samle website, hope you enjoy it.
 
